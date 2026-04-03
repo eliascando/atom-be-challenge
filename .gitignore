@@ -1,0 +1,14 @@
+node_modules
+lib
+coverage
+.azurefunctions
+.DS_Store
+.env
+.env.*
+!.env.example
+local.settings.json
+firebase-debug.log
+firebase-debug.*.log
+*firebase-adminsdk-*.json
+README.internal.md
+MANUAL_*.md
